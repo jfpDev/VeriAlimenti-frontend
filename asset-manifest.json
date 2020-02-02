@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/VeriAlimenti-frontend/static/css/main.7661b45d.chunk.css",
+    "main.js": "/VeriAlimenti-frontend/static/js/main.083c377b.chunk.js",
+    "main.js.map": "/VeriAlimenti-frontend/static/js/main.083c377b.chunk.js.map",
+    "runtime-main.js": "/VeriAlimenti-frontend/static/js/runtime-main.d9e9d91e.js",
+    "runtime-main.js.map": "/VeriAlimenti-frontend/static/js/runtime-main.d9e9d91e.js.map",
+    "static/js/2.01d6d096.chunk.js": "/VeriAlimenti-frontend/static/js/2.01d6d096.chunk.js",
+    "static/js/2.01d6d096.chunk.js.map": "/VeriAlimenti-frontend/static/js/2.01d6d096.chunk.js.map",
+    "index.html": "/VeriAlimenti-frontend/index.html",
+    "precache-manifest.5e6e2dcf627316e152b748b287c19ae8.js": "/VeriAlimenti-frontend/precache-manifest.5e6e2dcf627316e152b748b287c19ae8.js",
+    "service-worker.js": "/VeriAlimenti-frontend/service-worker.js",
+    "static/css/main.7661b45d.chunk.css.map": "/VeriAlimenti-frontend/static/css/main.7661b45d.chunk.css.map",
+    "static/js/2.01d6d096.chunk.js.LICENSE": "/VeriAlimenti-frontend/static/js/2.01d6d096.chunk.js.LICENSE",
+    "static/media/styles.css": "/VeriAlimenti-frontend/static/media/todaymeal.4056ca0d.png",
+    "static/media/VA_logo.svg": "/VeriAlimenti-frontend/static/media/VA_logo.739ee697.svg",
+    "static/media/aguacatepapelillo.png": "/VeriAlimenti-frontend/static/media/aguacatepapelillo.72d62af1.png",
+    "static/media/cebollacabezonamorada.png": "/VeriAlimenti-frontend/static/media/cebollacabezonamorada.bd7f3f39.png",
+    "static/media/coliflor.png": "/VeriAlimenti-frontend/static/media/coliflor.030717fa.png",
+    "static/media/home.jpg": "/VeriAlimenti-frontend/static/media/home.9fc2b59a.jpg",
+    "static/media/papapardacaucana.png": "/VeriAlimenti-frontend/static/media/papapardacaucana.c10cb949.png",
+    "static/media/platanoverdeharton.png": "/VeriAlimenti-frontend/static/media/platanoverdeharton.fa99eaf7.png",
+    "static/media/zapallo.png": "/VeriAlimenti-frontend/static/media/zapallo.3be7f370.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9e9d91e.js",
+    "static/js/2.01d6d096.chunk.js",
+    "static/css/main.7661b45d.chunk.css",
+    "static/js/main.083c377b.chunk.js"
+  ]
+}
