@@ -12,12 +12,12 @@ function NavAll(){
     <nav style={style}>
       <div className="container">
         <ul className="right hide-on-med-and-down">
-          <Link to="/galery">
+          <Link to="https://jfpdev.github.io/VeriAlimenti-frontend/galery">
             <li>Galería</li>
           </Link>
         </ul>
         <ul className="left hide-on-med-and-down">
-          <Link to="/restaurant">
+          <Link to="https://jfpdev.github.io/VeriAlimenti-frontend/restaurant">
             <li>Restaurante</li>
           </Link>
         </ul>

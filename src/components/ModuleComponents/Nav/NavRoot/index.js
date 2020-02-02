@@ -9,7 +9,7 @@ function NavRoot(){
     <nav className="RVstyle">
       <div className="container">
         <ul className="left hide-on-med-and-down">
-          <Link to="/root/purchases">
+          <Link to="https://jfpdev.github.io/VeriAlimenti-frontend/root/purchases">
             <li className="RVstyle">Purchases</li>
           </Link>
         </ul>
@@ -19,7 +19,7 @@ function NavRoot(){
           </Link>
         </ul>
         <ul className="left hide-on-med-and-down">
-          <Link to="/root/sales">
+          <Link to="https://jfpdev.github.io/VeriAlimenti-frontend/root/sales">
             <li className="RVstyle">Sales</li>
           </Link>
         </ul>
