@@ -1,0 +1,13 @@
+.RootSalesStyle{
+  height: 500px;
+  object-fit: cover;
+  background-image: url("./SalesPic.png");
+  background-repeat: no-repeat;
+}
+
+.SalesMessage{
+  color: black;
+  font-size: 30px;
+  no_space_b: true;
+  no_space_e: true;
+}
