@@ -22,12 +22,12 @@ function App() {
       <div className="App">
         <Header/>
         <Switch>
-          <Route path='https://jfpdev.github.io/VeriAlimenti-frontend/'          exact component = {Home} />
-          <Route path='https://jfpdev.github.io/VeriAlimenti-frontend/galery'          component = {Galery} />
-          <Route path='https://jfpdev.github.io/VeriAlimenti-frontend/restaurant'      component = {Restaurant} />
-          <Route path='https://jfpdev.github.io/VeriAlimenti-frontend/root'      exact component = {Root} />
-          <Route path='https://jfpdev.github.io/VeriAlimenti-frontend/root/purchases'  component = {Purchases} />
-          <Route path='https://jfpdev.github.io/VeriAlimenti-frontend/root/sales'      component = {Sales} />
+          <Route path='/VeriAlimenti-frontend/'          exact component = {Home} />
+          <Route path='/VeriAlimenti-frontend/galery'          component = {Galery} />
+          <Route path='/VeriAlimenti-frontend/restaurant'      component = {Restaurant} />
+          <Route path='/VeriAlimenti-frontend/root'      exact component = {Root} />
+          <Route path='/VeriAlimenti-frontend/root/purchases'  component = {Purchases} />
+          <Route path='/VeriAlimenti-frontend/root/sales'      component = {Sales} />
         </Switch>
         <FindUs/>
       </div>
