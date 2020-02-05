@@ -1,7 +1,10 @@
 .RestaurantStyle{
   height: 500px;
-  object-fit: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
   background-image: url("./todaymeal.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .Rmessage{

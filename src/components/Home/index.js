@@ -37,7 +37,7 @@ function Home(){
     </div>
     <br/>
     <div className="BWImessage">
-      <h4> <b>Cada vez es más la variedad, calidad y ahorros!</b></h4>
+      <h4> <b>¡Cada vez es más la variedad, calidad y ahorros!</b></h4>
     </div>
     <div className="container">
       <div className="Imessage">

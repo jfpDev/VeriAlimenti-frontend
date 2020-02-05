@@ -9,9 +9,9 @@ function Header(){
 
   return(
     <div className="HeaderStyle">
-      <div className="container">
+      <div>
         <a href="/">
-          <img src={VA_logo} className="responsive-img App-logo"  alt="logo" />
+          <img src={VA_logo} className="responsive-img"  alt="logo" />
         </a>
       </div>
     </div>

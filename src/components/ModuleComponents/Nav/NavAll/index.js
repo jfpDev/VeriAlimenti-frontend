@@ -1,4 +1,5 @@
 import React from 'react';
+import './styles.css';
 import {Link} from 'react-router-dom';
 
 
@@ -12,13 +13,13 @@ function NavAll(){
     <nav style={style}>
       <div className="container">
         <ul className="right hide-on-med-and-down">
-          <Link to="/VeriAlimenti-frontend/galery">
-            <li>Galería</li>
+          <Link to="/galery">
+            <b><li className="HNstyle">Galería</li></b>
           </Link>
         </ul>
         <ul className="left hide-on-med-and-down">
-          <Link to="/VeriAlimenti-frontend/restaurant">
-            <li>Restaurante</li>
+          <Link to="/restaurant">
+            <b><li className="HNstyle">Restaurante</li></b>
           </Link>
         </ul>
       </div>

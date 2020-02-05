@@ -1,6 +1,9 @@
 .back{
   height: 700px;
   background-image: url("./home.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .Hmessage{
