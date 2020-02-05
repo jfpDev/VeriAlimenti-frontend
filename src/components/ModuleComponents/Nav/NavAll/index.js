@@ -13,12 +13,12 @@ function NavAll(){
     <nav style={style}>
       <div className="container">
         <ul className="right hide-on-med-and-down">
-          <Link to="/galery">
+          <Link to="/VeriAlimenti-frontend/galery">
             <b><li className="HNstyle">Galería</li></b>
           </Link>
         </ul>
         <ul className="left hide-on-med-and-down">
-          <Link to="/restaurant">
+          <Link to="/VeriAlimenti-frontend/restaurant">
             <b><li className="HNstyle">Restaurante</li></b>
           </Link>
         </ul>

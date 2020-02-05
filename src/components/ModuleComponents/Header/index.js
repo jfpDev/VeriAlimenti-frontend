@@ -10,7 +10,7 @@ function Header(){
   return(
     <div className="HeaderStyle">
       <div>
-        <a href="/">
+        <a href="/VeriAlimenti-frontend/">
           <img src={VA_logo} className="responsive-img"  alt="logo" />
         </a>
       </div>

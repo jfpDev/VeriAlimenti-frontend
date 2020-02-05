@@ -9,17 +9,17 @@ function NavRoot(){
     <nav className="RVstyle">
       <div className="container">
         <ul className="left hide-on-med-and-down">
-          <Link to="/root">
+          <Link to="/VeriAlimenti-frontend/root">
             <b><li className="RVstyle">Root</li></b>
           </Link>
         </ul>
         <ul className="left hide-on-med-and-down">
-          <Link to="/root/purchases">
+          <Link to="/VeriAlimenti-frontend/root/purchases">
             <b><li className="RVstyle">Purchases</li></b>
           </Link>
         </ul>
         <ul className="left hide-on-med-and-down">
-          <Link to="/root/sales">
+          <Link to="/VeriAlimenti-frontend/root/sales">
             <b><li className="RVstyle">Sales</li></b>
           </Link>
         </ul>
