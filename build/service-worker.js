@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/VeriAlimenti-frontend/precache-manifest.eeab1b4960159fd6480be7254b66009c.js"
+  "/VeriAlimenti-frontend/precache-manifest.4e7f6d6f566ecd141954479c407dd0ef.js"
 );
 
 self.addEventListener('message', (event) => {

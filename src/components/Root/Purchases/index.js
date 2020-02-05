@@ -56,7 +56,7 @@ fetchArticles(){
 
 
 addPurchase(e){
-  //e.preventDefault();
+  e.preventDefault();
   this.state.tprice = this.state.kprice * this.state.amount;
   fetch('http://localhost:8080/db/articles',{
     method: 'POST',
