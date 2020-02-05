@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c44fe5fa7cd7f318dbf096d32a93a257",
+    "revision": "ba16f33b43c4846aa61f71ca23ee731c",
     "url": "/VeriAlimenti-frontend/index.html"
   },
   {
-    "revision": "a3045ee16eedd2e80826",
+    "revision": "b9f22eea2685a832e486",
     "url": "/VeriAlimenti-frontend/static/css/main.bc9dd3bc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VeriAlimenti-frontend/static/js/2.cfa8c8be.chunk.js.LICENSE"
   },
   {
-    "revision": "a3045ee16eedd2e80826",
-    "url": "/VeriAlimenti-frontend/static/js/main.8ddf5aa0.chunk.js"
+    "revision": "b9f22eea2685a832e486",
+    "url": "/VeriAlimenti-frontend/static/js/main.302aa371.chunk.js"
   },
   {
     "revision": "7025726e1ffa9407a924",

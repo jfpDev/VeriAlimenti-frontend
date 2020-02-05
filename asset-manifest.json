@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/VeriAlimenti-frontend/static/css/main.bc9dd3bc.chunk.css",
-    "main.js": "/VeriAlimenti-frontend/static/js/main.8ddf5aa0.chunk.js",
-    "main.js.map": "/VeriAlimenti-frontend/static/js/main.8ddf5aa0.chunk.js.map",
+    "main.js": "/VeriAlimenti-frontend/static/js/main.302aa371.chunk.js",
+    "main.js.map": "/VeriAlimenti-frontend/static/js/main.302aa371.chunk.js.map",
     "runtime-main.js": "/VeriAlimenti-frontend/static/js/runtime-main.d9e9d91e.js",
     "runtime-main.js.map": "/VeriAlimenti-frontend/static/js/runtime-main.d9e9d91e.js.map",
     "static/js/2.cfa8c8be.chunk.js": "/VeriAlimenti-frontend/static/js/2.cfa8c8be.chunk.js",
     "static/js/2.cfa8c8be.chunk.js.map": "/VeriAlimenti-frontend/static/js/2.cfa8c8be.chunk.js.map",
     "index.html": "/VeriAlimenti-frontend/index.html",
-    "precache-manifest.eeab1b4960159fd6480be7254b66009c.js": "/VeriAlimenti-frontend/precache-manifest.eeab1b4960159fd6480be7254b66009c.js",
+    "precache-manifest.4e7f6d6f566ecd141954479c407dd0ef.js": "/VeriAlimenti-frontend/precache-manifest.4e7f6d6f566ecd141954479c407dd0ef.js",
     "service-worker.js": "/VeriAlimenti-frontend/service-worker.js",
     "static/css/main.bc9dd3bc.chunk.css.map": "/VeriAlimenti-frontend/static/css/main.bc9dd3bc.chunk.css.map",
     "static/js/2.cfa8c8be.chunk.js.LICENSE": "/VeriAlimenti-frontend/static/js/2.cfa8c8be.chunk.js.LICENSE",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.d9e9d91e.js",
     "static/js/2.cfa8c8be.chunk.js",
     "static/css/main.bc9dd3bc.chunk.css",
-    "static/js/main.8ddf5aa0.chunk.js"
+    "static/js/main.302aa371.chunk.js"
   ]
 }
