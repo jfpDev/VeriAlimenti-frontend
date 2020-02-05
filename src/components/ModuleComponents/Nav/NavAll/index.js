@@ -22,6 +22,11 @@ function NavAll(){
             <b><li className="HNstyle">Restaurante</li></b>
           </Link>
         </ul>
+        <ul className="right hide-on-med-and-down">
+          <Link to="/VeriAlimenti-frontend/root">
+            <b><li className="HNstyle">Root</li></b>
+          </Link>
+        </ul>
       </div>
     </nav>
   );

@@ -1,6 +1,6 @@
 // Import the libraries
 import React from 'react';
-import {BrowserRouter as Router, Route, Switch, Redirect} from 'react-router-dom';
+import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 
 // Import the components
 import Header     from './components/ModuleComponents/Header/';
@@ -24,7 +24,6 @@ function App() {
         <Switch>
           <Route path='/VeriAlimenti-frontend/'          exact component = {Home} />
           <Route path='/VeriAlimenti-frontend/galery'          component = {Galery} />
-          <Redirect from='/VeriAlimenti-frontend/galery' to='/VeriAlimenti-frontend/galery'/>
           <Route path='/VeriAlimenti-frontend/restaurant'      component = {Restaurant} />
           <Route path='/VeriAlimenti-frontend/root'      exact component = {Root} />
           <Route path='/VeriAlimenti-frontend/root/purchases'  component = {Purchases} />
