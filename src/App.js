@@ -1,6 +1,7 @@
 // Import the libraries
 import React from 'react';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {BrowserHistoryWithEntries} from 'browser-history-with-entries';
 
 // Import the components
 import Header     from './components/ModuleComponents/Header/';
@@ -18,7 +19,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router history={BrowserHistoryWithEntries}>
       <div className="App">
         <Header/>
         <Switch>
